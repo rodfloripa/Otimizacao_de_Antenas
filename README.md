@@ -52,6 +52,10 @@ restricao = [A_target @ w == 1] # Trava o ganho máximo no alvo
 
 ```
 
+<p align="justify"><h3>5. Resultados</h3></p>
+
+
+
 <p align="justify"><h3>Conclusão</h3></p>
 
 <p align="justify">Projetar antenas com CVXPY transforma a "tentativa e erro" em uma <b>especificação de desempenho</b>. Você define como o lóbulo deve se comportar e o computador entrega o mapa exato (os pesos de amplitude e fase) para cada elemento da antena, garantindo que a física aconteça conforme planejado.</p>
