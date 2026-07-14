@@ -54,7 +54,9 @@ restricao = [A_target @ w == 1] # Trava o ganho máximo no alvo
 
 <p align="justify"><h3>5. Resultados</h3></p>
 
+![Otimização de Antenas - Fig 1](https://raw.githubusercontent.com/rodfloripa/Otimizacao_de_Antenas/main/fig1.png)
 
+![Otimização de Antenas - Fig 2](https://raw.githubusercontent.com/rodfloripa/Otimizacao_de_Antenas/main/fig2.png)
 
 <p align="justify"><h3>Conclusão</h3></p>
 
